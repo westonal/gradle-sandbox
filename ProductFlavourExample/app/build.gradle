@@ -11,6 +11,15 @@ android {
         versionCode 1
         versionName "1.0"
     }
+
+    productFlavors {
+        flavor1 {
+        }
+
+        flavor2 {
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false
