@@ -14,9 +14,11 @@ android {
 
     productFlavors {
         flavor1 {
+            applicationId "com.example.flavor1"
         }
 
         flavor2 {
+            applicationId "com.example.flavor2"
         }
     }
 
